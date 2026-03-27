@@ -18,6 +18,8 @@ A beginner-friendly course covering:
 
 **Course Moderators:** [Iqra Shahzad](https://www.linkedin.com/in/iqrashahzad95000/) , [Maria Aqdas](https://www.linkedin.com/in/maria-aqdas-58171a347)
 
+![9PM PKT Weekdays](https://github.com/hamzabeig/Python-Essentials-for-Data-Science/blob/main/course.jpg)
+
 ---
 
 ## 📌 Course Overview
