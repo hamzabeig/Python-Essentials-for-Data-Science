@@ -6,5 +6,5 @@
 
 | **Lecture** | **Topic**                              | **Recording Link**                           | **Trainer** |
 |------------|-------------------------------------------------|--------------------|-----------------------------------|
-| Day 1 | `Numpy`                 | [Watch](https://youtu.be/)        | Hamza Baig |
+| Day 1 | `Numpy`                 | [Watch](https://youtube.com/live/7tyE4TJeZUA)        | Hamza Baig |
 
